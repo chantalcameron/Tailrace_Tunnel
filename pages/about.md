@@ -22,6 +22,8 @@ As always, the aesthetics of the design were important.  The portal, where the 
 
 Excavation for the tunnel began in 1901 and was completed by late 1902.  At this point, much consideration was given to the construction of the interior of the tunnel.    The tunnel surface needed to be as smooth as possible.  Water would be flowing through the tunnel at  a rate of 30 feet per second.  Any irregularities on the surface would erode the tunnel prematurely.  A choice had to be made between using concrete or brick.  The Niagara Falls Power Company in New York had used brick in their tunnel, and the original design for the Canadian Niagara Power Company's tunnel had called for four layers of brick.  In the end it was decided that  a combination of the two materials would be used.  The walls and floor would use concrete covered with a single layer of brick.  The brick selected was of a higher quality than the brick that had been used in the Niagara Falls Power Company's tunnel.   The tunnel was completed in 1904.
 
+In 1957, the Rankine Generating Station temporarily shut down operations so that the discharge tunnel could be inspected and any necessary repairs made.  It was found that the tunnel was in excellent condition, even after 50 years of operation, and very little maintenance was required.
+
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 

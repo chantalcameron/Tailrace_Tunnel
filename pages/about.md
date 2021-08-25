@@ -32,7 +32,7 @@ The portal, where the water was discharged into the river, was designed so that 
 
 Excavation for the tunnel began in 1901 and was completed by late 1902.  At this point, much consideration was given to the construction of the interior of the tunnel.    The tunnel surface needed to be as smooth as possible.  Water would be flowing through it at  a rate of 30 feet per second.  Any irregularities on the surface would erode the tunnel prematurely. It was decided that  a combination of brick and concrete would be used.  The walls and floor would be made with concrete and covered with a single layer of high-quality brick.  The tunnel was completed in 1904.
 
-In 1957, the Rankine Generating Station temporarily shut down operations so that the discharge tunnel could be inspected and any necessary repairs made.  It was found that the tunnel was in excellent condition, even after 50 years of operation, and very little maintenance was required.
+In 1957, the Rankine Generating Station temporarily shut down operations so that the discharge tunnel could be inspected and any necessary repairs made.  It was found that the tunnel was in excellent condition, even after 50 years of operation, and very little maintenance was required.  The powerhouse ceased operations in 2006 and is currently owned by the Niagara Parks Commission.  The powerhouse recently opened to the public and there are plans to open the tailrace tunnel in July 2022.
 
 {% include feature/image.html objectid="item8" width="50" %}
 

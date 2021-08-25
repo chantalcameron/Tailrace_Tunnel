@@ -17,10 +17,12 @@ credits: true
 
 The Canadian Niagara Power Company's powerhouse in Niagara Falls, Ontario, was the first hydroelectric generating station to be built on the Canadian side of the Niagara River.  Upon opening in 1905, the powerhouse boasted the largest generators of their kind in the world, with a capacity of 10,000 electrical horsepower each.  The powerhouse was named after William Birch Rankine in 1927, who was instrumental in its development and construction.   
 
-{% include feature/image.html objectid="item21" width="50" %}
+{% include feature/image.html objectid="item21" width="25" %}
 
 
-One of the most impressive parts of the project was the tailrace tunnel.   The tunnel was an enormous construction project and a critical component of the power plant's operations.  The tunnel is 2,200 feet long, beginning at the powerhouse and ending at a portal in the gorge near the base of the Horseshoe Falls.  It was at this portal that water diverted to the powerhouse from the Niagara River was discharged and rejoined the river.   
+One of the most impressive parts of the project was the tailrace tunnel.   The tunnel was an enormous construction project and a critical component of the power plant's operations.  The tunnel is 2,200 feet long, beginning at the powerhouse and ending at a portal in the gorge near the base of the Horseshoe Falls.  It was at this portal that water diverted to the powerhouse from the Niagara River was discharged and rejoined the river.  
+
+{% include feature/image.html objectid="item20" width="25" %}
 
 Initially, the design called for two separate tunnels emerging from the powerhouse, which were to be joined at a later point.  This would enable the plant to continue operating while one tunnel was being repaired or inspected, as the alternate tunnel would be available to carry the discharged water.  Although practical, this design would cost more money.  It was decided to build a single tunnel.   In order to reduce the risk of the tunnel being unavailable due to repairs, a great deal of effort was put into the tunnel's design and construction.  It was imperative that the tunnel be able to withstand the continual force of the water with minimal damage to its structure.  
 

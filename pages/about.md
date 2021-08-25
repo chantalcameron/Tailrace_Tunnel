@@ -12,6 +12,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+{% include feature/image.html objectid="item21" width="50" %}
+
 ## About the Collection
 
 One of the most impressive parts of the project was the tailrace tunnel.  Although largely invisible, the tunnel was an enormous construction project and a critical component of the power plant's operations.  The tunnel is 2,200 feet long, beginning at the powerhouse and ending at a portal in the gorge near the base of the Horseshoe Falls.  It was at this portal that water diverted to the powerhouse from the Niagara River was discharged and rejoined the river.   

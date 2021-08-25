@@ -24,7 +24,7 @@ Excavation for the tunnel began in 1901 and was completed by late 1902.  At thi
 
 In 1957, the Rankine Generating Station temporarily shut down operations so that the discharge tunnel could be inspected and any necessary repairs made.  It was found that the tunnel was in excellent condition, even after 50 years of operation, and very little maintenance was required.
 
-{% include feature/item-figure.html objectid="item8" width="50" %}
+{% include feature/image.html objectid="item8" width="50" %}
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 

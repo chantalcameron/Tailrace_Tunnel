@@ -34,7 +34,7 @@ Excavation for the tunnel began in 1901 and was completed by late 1902.  At thi
 
 In 1957, the Rankine Generating Station temporarily shut down operations so that the discharge tunnel could be inspected and any necessary repairs made.  It was found that the tunnel was in excellent condition, even after 50 years of operation, and very little maintenance was required.  
 
-The powerhouse ceased operations in 2006 and is currently owned by the Niagara Parks Commission.  The powerhouse recently opened to the public and there are plans to open the tailrace tunnel in July 2022.
+The powerhouse ceased operations in 2006 and is currently owned by the Niagara Parks Commission.  It was recently opened to the public and there are plans to open the tailrace tunnel in July 2022.
 
 {% include feature/image.html objectid="item8" width="50" %}
 
